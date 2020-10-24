@@ -19,7 +19,7 @@ body{
 
 div.gallery {
   margin: 5px;
-  border: 1px solid #ccc;
+ /* border: 1px solid #ccc;*/
   float: left;
   width: 180px;
 }
@@ -85,7 +85,7 @@ div.desc {
 	margin-left: auto;
 	margin-right: auto;
 }
-#category {
+/*#category {
 	margin-left: 10px;
 }
 #category ul{
@@ -94,7 +94,7 @@ div.desc {
 	padding-right: 20px;
 	padding-bottom: 20px;
 	list-style: none;
-}
+}*/
 /*#info{
 	padding-left: 20px;
 }*/
